@@ -19,8 +19,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "start:node": "node app",
-    "start:dev": "nodemon app",
     "build": "cross-env REACT_APP_URL=https://server-for-chatting.herokuapp.com// react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
