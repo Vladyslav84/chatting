@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/chatting/static/css/main.71d06186.chunk.css",
-    "main.js": "/chatting/static/js/main.56144cbb.chunk.js",
-    "main.js.map": "/chatting/static/js/main.56144cbb.chunk.js.map",
+    "main.css": "/chatting/static/css/main.0b4b4a8b.chunk.css",
+    "main.js": "/chatting/static/js/main.74c11531.chunk.js",
+    "main.js.map": "/chatting/static/js/main.74c11531.chunk.js.map",
     "runtime-main.js": "/chatting/static/js/runtime-main.29c31f57.js",
     "runtime-main.js.map": "/chatting/static/js/runtime-main.29c31f57.js.map",
-    "static/js/2.61cfd050.chunk.js": "/chatting/static/js/2.61cfd050.chunk.js",
-    "static/js/2.61cfd050.chunk.js.map": "/chatting/static/js/2.61cfd050.chunk.js.map",
+    "static/js/2.1b17990f.chunk.js": "/chatting/static/js/2.1b17990f.chunk.js",
+    "static/js/2.1b17990f.chunk.js.map": "/chatting/static/js/2.1b17990f.chunk.js.map",
     "index.html": "/chatting/index.html",
-    "static/css/main.71d06186.chunk.css.map": "/chatting/static/css/main.71d06186.chunk.css.map",
-    "static/js/2.61cfd050.chunk.js.LICENSE.txt": "/chatting/static/js/2.61cfd050.chunk.js.LICENSE.txt"
+    "static/css/main.0b4b4a8b.chunk.css.map": "/chatting/static/css/main.0b4b4a8b.chunk.css.map",
+    "static/js/2.1b17990f.chunk.js.LICENSE.txt": "/chatting/static/js/2.1b17990f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.29c31f57.js",
-    "static/js/2.61cfd050.chunk.js",
-    "static/css/main.71d06186.chunk.css",
-    "static/js/main.56144cbb.chunk.js"
+    "static/js/2.1b17990f.chunk.js",
+    "static/css/main.0b4b4a8b.chunk.css",
+    "static/js/main.74c11531.chunk.js"
   ]
 }
